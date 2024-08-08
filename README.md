@@ -4,7 +4,7 @@
 我們爬取台灣銀行現金買入賣出的資訊，
 大家進去網站後直接使用即可。
 # 網站
-製作中...
+https://huggingface.co/spaces/hackeryu314159/bankrequests
 # 如何執行
 可以用我們上面給的app.py執行，
 不過需要自行安裝模組，
@@ -16,5 +16,7 @@
 ![image](https://github.com/user-attachments/assets/ede31120-59a1-4740-aa53-45384437c850)
 # 引用模組
 gradio,requests
+#使用時注意
+請勿帶給網站過度負擔。
 # 特別感謝
 hackeryu314159
